@@ -46,7 +46,7 @@
                         <td>{{ $author->designation }}</td>
                         <td>
                             @if($author->author_img == 'No image found')
-                                <img src="/uploads/no-img.jpg" width="100" height="100" class="img-thumbnail" alt="No image found">
+                                <img src="/uploads/no-img.png" width="100" height="100" class="img-thumbnail" alt="No image found">
                             @else
                                 <img src="/uploads/{{ $author->author_img }}" width="100" height="100" class="img-thumbnail" alt="{{ $author->title }}">
                             @endif

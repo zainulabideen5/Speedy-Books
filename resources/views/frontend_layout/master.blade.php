@@ -129,8 +129,8 @@
                         <div class="footer-column footer-links">
                             <h4>Information</h4>
                             <ul>
-                                <li><a href="#">Home</a></li>
-                                <li><a href="#">About</a></li>
+                                <li><a href="/">Home</a></li>
+                                <li><a href="/about">About</a></li>
                                 <li><a href="#">Gallery</a></li>
                                 <li><a href="#">blog</a></li>
                                 <li><a href="#">Author</a></li>
